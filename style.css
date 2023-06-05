@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+.icon{
+    height: 40px;
+    width: 40px;
+}
+
+.container{
+    padding-top: 20px;
+}
+
+.pad{
+    padding-top: 50px;
+}
+.slide{
+    color: white;
+}
